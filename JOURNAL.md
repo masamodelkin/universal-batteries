@@ -4,6 +4,7 @@ author: "Matthew Kutakh"
 description: "System of quick-swap li-po batteries with a charger to eliminate recharging of the wireless devices"
 created_at: "2025-06-01"
 ---
+# Total time spent: 20h
 
 # July 1st: Got quick release mechanism to work.
 
@@ -93,3 +94,5 @@ Finally - Fusion 360 added constraints for components!!! The timing was just rig
 # July 30: Last day
 
 Finally, with all the components ready, I started writing the README.md file and looking over all the journals and putting all the files into the GitHub repo. I also used Grammarly to correct grammatical mistakes in my Journal. 
+
+**Total time spent: 2h**
