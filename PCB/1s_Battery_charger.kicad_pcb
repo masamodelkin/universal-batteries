@@ -12078,7 +12078,7 @@
 	(footprint "Custom:XIAO-ESP32C6-SMD"
 		(layer "F.Cu")
 		(uuid "e00878ec-a40e-47ca-9fd6-1deed9a96ebc")
-		(at 64.5526 27.0568)
+		(at 64.5 26.62)
 		(property "Reference" "U3"
 			(at -9.5 -11.5 0)
 			(layer "F.SilkS")
@@ -15440,6 +15440,14 @@
 		(uuid "f4424f3e-6aed-4462-8d78-8694d68dfb02")
 	)
 	(via
+		(at 72.3834 21.5615)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 1)
+		(uuid "091929df-0192-4215-9643-00162f332e0d")
+	)
+	(via
 		(at 62.5875 51.5)
 		(size 0.6)
 		(drill 0.3)
@@ -15526,14 +15534,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net 1)
 		(uuid "6119c4d9-b85c-49cd-ad47-4ffd3eb454d0")
-	)
-	(via
-		(at 72.436 21.9983)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 1)
-		(uuid "66502345-d453-47fb-80ae-3787f04a669a")
 	)
 	(via
 		(at 64 39.5)
@@ -15672,20 +15672,20 @@
 		(uuid "dcbc7549-5708-478a-a027-51c8480e83b5")
 	)
 	(via
-		(at 65.5926 20.9768)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 1)
-		(uuid "e6a19dbf-dc91-4319-b0f9-ed551afc8a05")
-	)
-	(via
 		(at 84.7 20.08)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
 		(net 1)
 		(uuid "f14937fe-f336-41eb-992f-95aa14fe8c4a")
+	)
+	(via
+		(at 65.54 20.54)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 1)
+		(uuid "f76a29b5-eed8-46cf-8908-bb4df11fd3b3")
 	)
 	(segment
 		(start 76.176 46.824)
